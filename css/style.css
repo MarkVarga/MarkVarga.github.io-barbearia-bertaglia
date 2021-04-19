@@ -569,7 +569,7 @@ html {
 
 .hero-section {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("/src/pexels-josh-sorenson-995300.jpg") 50% no-repeat;
+    url("../src/pexels-josh-sorenson-995300.jpg") 50% no-repeat;
   background-size: cover;
   height: 60vh;
   text-align: center;
